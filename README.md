@@ -32,4 +32,8 @@ to get into the project directory ;-)
 
 Happy Coding!
 
+<<<<<<< Updated upstream
 M.
+=======
+M.
+>>>>>>> Stashed changes
